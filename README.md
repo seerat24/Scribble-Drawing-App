@@ -1,4 +1,4 @@
-# flutter_newskribbl
+# Scribble Drawing App
 
 A new Flutter application.
 
